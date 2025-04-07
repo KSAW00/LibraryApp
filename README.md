@@ -1,5 +1,5 @@
 This is a simple library app that uses redux to track the collection of books.
-books may be adde and browsed thru various tab on the navbar.
+books may be added and browsed thru various tab on the navbar.
 
 Getting Started :
 1. Clone the Repository,
