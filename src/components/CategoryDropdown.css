@@ -1,0 +1,23 @@
+.category-dropdown {
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #ffffff; 
+    color: #333;
+    outline: none;
+    transition: border-color 0.3s ease;
+    cursor: pointer;
+}
+
+.category-dropdown:hover {
+    border-color: #888; 
+}
+
+.category-dropdown:focus {
+    border-color: #555; 
+}
+
+.category-dropdown option {
+    background-color: #ffffff; 
+    color: #333; 
+}

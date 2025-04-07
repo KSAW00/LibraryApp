@@ -1,0 +1,33 @@
+:root {
+  --primary-bg: #a7a5a5; 
+  --secondary-bg: #cfcfcf; 
+  --primary-text: #333333; 
+  --secondary-text: #666666; 
+  --hover-color: #fda33d; 
+  --card-bg: #f5d7ba; 
+  --border-color: #cccccc; 
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: var(--primary-bg);
+  color: var(--primary-text);
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+a {
+  color: var(--secondary-text);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--hover-color);
+}
+
+h1, h2, h3 {
+  color: var(--primary-text);
+  margin-bottom: 20px;
+  text-align: center;
+}
